@@ -1,10 +1,14 @@
 import React from 'react'
 import './whatDavid.css'
 
-const whatDavid = () => {
+const WhatDavid = () => {
   return (
-    <div>whatDavid</div>
+    <div classNAme = "projects section__margin" id= "Projects">
+    <div className = "projects-feature"> 
+
+    </div>
+    </div>
   )
 }
 
-export default whatDavid
+export default WhatDavid
